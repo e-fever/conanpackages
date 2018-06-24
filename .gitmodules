@@ -1,0 +1,3 @@
+[submodule "quickflux/trunk"]
+	path = quickflux/trunk
+	url = git@github.com:benlau/quickflux.git
